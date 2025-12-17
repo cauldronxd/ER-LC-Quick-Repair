@@ -2,6 +2,8 @@
 
 Quick Repair is a real-time automation tool for Emergency Response: Liberty County (ER:LC) that automatically clicks Repair Car first, then Exit Garage, at high speed and in the correct order.
 
+https://github.com/user-attachments/assets/43757c21-89aa-470c-813e-5283634cbcb1
+
 ---
 
 ## 📦 Requirements
@@ -73,3 +75,4 @@ You are responsible for how you use this tool.
 
 Because clicking Repair then Exit hundreds of times is not fun.  
 Automation is faster.
+
