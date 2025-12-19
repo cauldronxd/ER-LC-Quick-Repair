@@ -18,7 +18,7 @@ sh, sw = success.shape
 CONF = 0.7
 
 REPAIR_REGION = {"top": 0, "left": 0, "width": 500, "height": 300}
-SUCCESS_REGION = {"top": 0, "left": 1200, "width": 720, "height": 250}
+SUCCESS_REGION = {"top": 0, "left": 1200, "width": 720, "height": 250} # Change to {"top": 0, "left": 1600, "width": 960, "height": 300} If wider monitor
 EXIT_REGION = {"top": 650, "left": 1100, "width": 800, "height": 400}
 FULL_REGION = {"top": 0, "left": 0, "width": 1920, "height": 1080}
 
@@ -81,3 +81,4 @@ while True:
             continue
 
     time.sleep(0.02)
+
